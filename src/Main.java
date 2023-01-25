@@ -10,6 +10,7 @@ public class Main {
         }
         System.out.println(name1(name));
     }
+
     public static LinkedList<Integer> name1(LinkedList<Integer> at) {
     LinkedList<Integer> at1=new LinkedList<>();
         for (int a:at) {
